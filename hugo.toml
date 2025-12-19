@@ -11,3 +11,4 @@ paginate = 10
   defaultTheme = "dark"
   showReadingTime = true
 
+greeting= "Neden?"
