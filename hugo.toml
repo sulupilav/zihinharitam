@@ -1,0 +1,13 @@
+baseURL = "http://localhost/"
+languageCode = "tr-tr"
+title = "Furk'un Blogu"
+
+theme = "hello-friend-ng"
+
+paginate = 10
+
+[params]
+  contentTypeName = "posts"
+  defaultTheme = "dark"
+  showReadingTime = true
+
