@@ -1,6 +1,6 @@
 baseURL = "http://localhost/"
 languageCode = "tr-tr"
-title = "Furk'un Blogu"
+title = "Zamanı durdurabilseydim, sonsuza dek konuşurdum."
 
 theme = "hello-friend-ng"
 
